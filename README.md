@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a web developer, I've transisioned from being a full stack developer to mainly focused on backend technologies.
+I'm a web developer, I've transitioned from being a full stack developer to mainly focused on backend technologies.
 
 - 💻 I’m looking to collaborate on open-source projects.
 - 🌎 I’m looking to help projects with a vision to make a better world.
